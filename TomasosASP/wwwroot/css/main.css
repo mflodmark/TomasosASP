@@ -1,0 +1,21 @@
+﻿.navbar {
+    background-color: #d35400;
+    border: none;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.active {
+    background-color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: black;
+}
+
+.navbar-inverse .navbar-brand {
+    color: black;
+}
+
